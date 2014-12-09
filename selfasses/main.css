@@ -1,0 +1,12 @@
+h1 {
+	font: 2.5em georgia, times, serif;
+	text-shadow: 2px 2px #666
+}
+a, h1, h2, h3{
+	font-weight: normal;
+	color: #ffa200
+}
+#credits{
+ font-style: itallic;
+ }
+ 
