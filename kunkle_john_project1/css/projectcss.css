@@ -24,7 +24,7 @@ h1,h2{
 ul{
   display: inline-block;
   text-align: center;
-  width: 900;
+  width: 900px ;
   margin: 0 290px;
   }
 #navigation li{
@@ -32,7 +32,7 @@ ul{
   background-color: hsla(96,4%,44%,.99);
   height:20px;
   width: 200px;
-  padding: 10;
+  padding: 10px;
   margin:20px;
   border: 1px solid;   
 }
