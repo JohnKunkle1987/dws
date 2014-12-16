@@ -6,21 +6,23 @@ body{
     margin:0 auto;
     width: 900px;
   /*******background-color: hsla(58,23%,46%,1);*******/
-    background: hsla(360,100%,100%,1) url("../images/flmap.jpg") repeat-y;
+    background: hsla(360,100%,100%,1) url("../images/flmap.jpg") top repeat-y;
     }  
 p{
     line-height:1.2;
-    text-indent: 50px;
+    text-indent: 8%;
 	}
 div.split{
 	float:left;
 	width: 43%;
-	margin:2%;
+	margin:1%;
+	padding:.5%;
 	}
 div.split2{
 	float:left;
 	width:43%;
-	margin:2%;
+	margin:1%;
+	padding:.5%;
 	clear:right;
 	}
 	
@@ -33,10 +35,14 @@ h1{
     font-size: 2.5em;
     text-align:center;
     width : 900px;
-    background: hsla(360,100%,100%,1);   
+    background: hsla(360,100%,100%,1);
+    background: radial-gradient(hsla(58,23%,46%,.3),black);
+    height:78px;
+    
 	}
-#2{
+#two{
 	clear:left;
+	background:url("../images/ancor.png") center no-repeat;
 	}
 h3{
    font-weight:normal;
