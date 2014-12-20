@@ -1,18 +1,4 @@
-h1 {
-  color : 00f;
+body {
+	font-family: arial, verdana, sans-serif
 }
-#four {
-  color: #A6A14A;
-}
-#three {
-  color: #736E11;
-}
-#two {
-  color: #D9C077;
-}
-#one {
-  color: #B1C5DE;
-}
-#zero {
-  color: #4A8CA6;
-}
+ul #navigation{

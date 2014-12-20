@@ -1,0 +1,4 @@
+<form
+        action="http://example.com/join.php">
+  <input type="text" name="username"/>
+</form>
